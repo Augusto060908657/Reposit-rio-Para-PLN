@@ -1,0 +1,10 @@
+AUTORIZAÇÃO DE USO DE VOZ (LGPD) - MODELO
+
+Eu, _______________________________, autorizo o uso da minha voz, gravada em quatro frases, exclusivamente para
+testes acadêmicos do trabalho de PLN (GS 2027, CitizenTech) do aluno Octavio Augusto Ramalho Brandão Pires (RM 555696),
+sem clonagem de voz e sem divulgação além da entrega do trabalho.
+Posso pedir a exclusão dos meus áudios a qualquer momento.
+
+Data: ___/___/______     Assinatura ou mensagem de confirmação: _______________________
+
+(Guarde as autorizações de cada pessoa: Octavio, Karen, Marcos, Caetano, Pedace e Raio. Elas não precisam ir no repositório público.)

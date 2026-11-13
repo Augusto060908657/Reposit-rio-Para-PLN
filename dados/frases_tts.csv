@@ -1,0 +1,11 @@
+id,resposta_do_assistente
+T01,Olá! Eu sou o Zelador. Posso ajudar você a relatar buracos, árvores e outros problemas na rua. Qual é o problema?
+T02,Entendi. Em qual rua fica o buraco? Se souber o número ou um ponto de referência, me diga também.
+T03,Para pedir o conserto de um buraco, use o SP156: telefone 156, portal, aplicativo ou WhatsApp.
+T04,Resumindo: um buraco grande na rua Augusta, número 520, com gravidade alta. Posso registrar o pedido?
+T05,Pronto. Registrei neste protótipo o pedido de buraco na via. O protocolo é ZU-20261112-0001.
+T06,Árvore perto dos fios de energia é perigoso. Mantenha distância e faça o pedido de poda pelo SP156.
+T07,Não sei informar o prazo exato do conserto. Você pode acompanhar o andamento com o número do protocolo no SP156.
+T08,Isso parece uma emergência. Ligue agora para o SAMU, 192, ou para os Bombeiros, 193.
+T09,Desculpe, eu só ajudo com problemas urbanos, como buraco, árvore, lâmpada queimada e bueiro. Posso ajudar com algum deles?
+T10,Seu áudio é apagado logo depois de transcrito. Não peço CPF nem telefone. O CEP 01301-000 pode ser usado como referência do local.

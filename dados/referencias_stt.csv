@@ -1,0 +1,25 @@
+arquivo,numero,pessoa,condicao,referencia
+audio_02_Karen_limpo,2,Karen,limpo,"Tem uma árvore caída na calçada da avenida Paulista, bloqueando a passagem de cadeirantes."
+audio_03_Marcos_limpo,3,Marcos,limpo,O poste da rua Oscar Freire está com a lâmpada queimada há mais de uma semana.
+audio_04_Caetano_limpo,4,Caetano,limpo,"Há um bueiro entupido na esquina da rua da Consolação com a rua Maria Antônia, e a água está transbordando."
+audio_06_Raio_limpo,6,Raio,limpo,"O buraco fica na frente da padaria, do lado direito de quem sobe a rua."
+audio_07_Pedace_limpo,7,Pedace,limpo,"É um buraco grande, mais ou menos do tamanho de um pneu, e já causou um acidente com uma moto."
+audio_08_Raio_limpo,8,Raio,limpo,Preciso da poda de uma árvore que está encostando nos fios de energia na rua Teodoro Sampaio.
+audio_10_Karen_ruido,10,Karen,ruido,Qual é o número do protocolo do meu pedido? Quero acompanhar o andamento.
+audio_11_Pedace_limpo,11,Pedace,limpo,Pode repetir o endereço que você anotou? Acho que o número está errado.
+audio_12_Raio_limpo,12,Raio,limpo,"O CEP é zero um três zero um, zero zero zero."
+audio_13_Pedace_ruido,13,Pedace,ruido,A calçada está quebrada em frente ao hospital e está muito perigosa para as pessoas idosas.
+audio_14_Karen_limpo,14,Karen,limpo,Quanto tempo a prefeitura leva para consertar um buraco depois que eu faço o pedido?
+audio_15_Marcos_ruido,15,Marcos,ruido,"Sim, pode confirmar o pedido e enviar para a subprefeitura de Pinheiros."
+audio_16_Caetano_ruido,16,Caetano,ruido,"Não, o problema não é na minha casa, é na rua de trás, no Jardim Paulista."
+audio_18_Karen_limpo,18,Karen,limpo,"Tem um vazamento de água na calçada da rua Domingos de Morais, número mil trezentos e quatro, desde segunda-feira."
+audio_19_Marcos_limpo,19,Marcos,limpo,"Uma árvore de grande porte caiu em cima de um carro estacionado e a rua está interditada, é urgente."
+audio_20_Caetano_limpo,20,Caetano,limpo,"Obrigado pela ajuda, pode encerrar o atendimento por hoje."
+audio_21_Marcos_limpo,21,Marcos,limpo,Posso mandar uma foto do buraco para ajudar no atendimento?
+audio_22_Caetano_limpo,22,Caetano,limpo,"Um galho grande quebrou depois da chuva e está caindo sobre a fiação, na rua dos Pinheiros, perto do número setecentos e trinta."
+audio_23_Pedace_limpo,23,Pedace,limpo,A placa da esquina com a rua Haddock Lobo caiu no chão e ninguém consegue ver o nome da rua.
+audio_24_Raio_ruido,24,Raio,ruido,"Quero mudar a gravidade do problema para urgente, porque o buraco está aumentando."
+audio_01_Octavio_limpo,1,Octavio,limpo,"Oi, quero relatar um buraco enorme na rua Augusta, perto do número quinhentos e vinte."
+audio_05_Octavio_ruido,5,Octavio,ruido,"Quero pedir a retirada de entulho que deixaram na calçada da rua Vergueiro, perto do metrô Paraíso."
+audio_09_Octavio_limpo,9,Octavio,limpo,"Ontem à noite o semáforo do cruzamento da avenida Brasil com a rua Estados Unidos parou de funcionar."
+audio_17_Octavio_limpo,17,Octavio,limpo,"Eu também queria saber se vai chover amanhã em São Paulo."

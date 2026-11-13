@@ -1,0 +1,32 @@
+id,tema,turno,fala_do_usuario
+C01,buraco com registro completo,1,"Oi, quero relatar um buraco enorme na rua Augusta, perto do número quinhentos e vinte."
+C01,buraco com registro completo,2,Fica no meio da rua e já causou um acidente com uma moto.
+C01,buraco com registro completo,3,"Sim, pode confirmar o pedido."
+C01,buraco com registro completo,4,"Obrigado, pode encerrar."
+C02,árvore com continuação,1,Tem uma árvore com galhos encostando nos fios de energia na rua Teodoro Sampaio.
+C02,árvore com continuação,2,E onde eu faço o pedido de poda?
+C02,árvore com continuação,3,E quanto tempo isso demora?
+C03,lâmpada queimada,1,O poste da rua Oscar Freire está com a lâmpada queimada.
+C03,lâmpada queimada,2,Está queimada há mais de uma semana.
+C03,lâmpada queimada,3,"Sim, pode registrar."
+C04,bueiro e emergência de enchente,1,Há um bueiro entupido na esquina da rua da Consolação com a rua Maria Antônia.
+C04,bueiro e emergência de enchente,2,A água está transbordando.
+C04,bueiro e emergência de enchente,3,Isso é urgente?
+C05,entulho,1,Quero pedir a retirada de entulho na calçada da rua Vergueiro.
+C05,entulho,2,Fica perto do metrô Paraíso.
+C05,entulho,3,"Sim, confirma."
+C06,pedido fora do escopo no meio,1,Quero relatar uma calçada quebrada em frente ao hospital.
+C06,pedido fora do escopo no meio,2,"Antes disso, você sabe se vai chover amanhã?"
+C06,pedido fora do escopo no meio,3,"Certo, então vamos voltar à calçada."
+C07,acompanhamento de protocolo,1,Como eu acompanho o andamento do meu pedido?
+C07,acompanhamento de protocolo,2,E se eu perder o número do protocolo?
+C07,acompanhamento de protocolo,3,Obrigado.
+C08,emergência,1,Uma árvore de grande porte caiu em cima de um carro e a rua está interditada.
+C08,emergência,2,Tem uma pessoa ferida dentro do carro.
+C08,emergência,3,"Certo, obrigado."
+C09,semáforo,1,O semáforo do cruzamento da avenida Brasil com a rua Estados Unidos parou de funcionar.
+C09,semáforo,2,Foi ontem à noite.
+C09,semáforo,3,Posso mandar uma foto?
+C10,privacidade e CPF,1,Vocês guardam o meu áudio?
+C10,privacidade e CPF,2,Preciso informar meu CPF?
+C10,privacidade e CPF,3,Então quero relatar um vazamento de água na rua Domingos de Morais.
